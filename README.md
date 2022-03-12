@@ -2,4 +2,4 @@
 
 ## Website Link and GIF
 
-![GIF](./assets/images/Password Gen.gif);
+![GIF](assets/images/Password Gen.gif);
