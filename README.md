@@ -1,6 +1,6 @@
 # random-password-generator
 
-THis is my first javascript code. It creates a randomly generated password according to what characters the user would like to use. 
+This is my first javascript code. It creates a randomly generated password according to what characters the user would like to use. 
 
 A homework assignment given from Bootcamp to learn about Javascript.
 
